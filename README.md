@@ -1,6 +1,4 @@
-# LeetCode-Easy-Problems
 Easy Leetcode problems.
-# LeetCode Easy Problems
 
 ## Arrays & Strings:
 1. [Two Sum](https://leetcode.com/problems/two-sum/)
