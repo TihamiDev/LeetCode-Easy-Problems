@@ -1,1 +1,2 @@
-1. <a href="https://leetcode.com/problems/two-sum/" target="_blank">Two Sum</a>
+[Majority Element](https://leetcode.com/problems/majority-element/)
+20. [Missing Number](https://leetcode.com/problems/missing-number/)
